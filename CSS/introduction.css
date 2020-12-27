@@ -1,5 +1,7 @@
 body {
-     background-image:url("/img/bg.jpg");
+	background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+/*      background-image:url("/img/bg.jpg"); */
     /*    height: 100%;*/
 }
 .static-container{max-width: 1080px; margin: auto;align-items: center;justify-content: center;}
